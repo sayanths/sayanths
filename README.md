@@ -2,7 +2,7 @@
 <p align="center" >
   <img src="images/matr.gif"   title="Hi, nice to meet you!">
 </p>
-<h2 >Self learned flutter developer</h2>
+<h2 > Flutter developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeragpc&label=Profile%20views&color=0e75b6&style=flat" alt="sreeragpc" /> </p>
 
